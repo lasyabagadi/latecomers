@@ -1,0 +1,39 @@
+.one{
+    align-content: center;
+}
+.submit-class{
+    background-color: #3498db;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+.img-dim{
+    /* object-fit: ; */
+    width: 200px;
+    height: auto;
+    
+}
+
+.car{
+    padding-left: 40px;
+    /* padding-bottom: 10px; */
+}
+
+.one{
+    font-weight: 400;
+}
+
+.two{
+    font-weight: 800;
+    font-size: large;
+}
+.three{
+    background-color: #2c86fc;
+    border: none;
+    padding: 7px;
+    padding-left: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
